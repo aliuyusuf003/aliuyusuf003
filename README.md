@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aliuyusuf003
 - 👀 I’m interested in working on back-end development
-- 🌱 I’m currently learning Software Architecture
-- 💞️ I’m looking to collaborate on Laravel,Vuejs
+- 💞️ I’m looking to collaborate on PHP API projects
 - 📫 How to reach me aliu.yusuf@outlook.com
 
 <!---
