@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliuyusuf003
 - 👀 I’m interested in working on back-end development
-- 💞️ I’m looking to collaborate on PHP API projects
+- 💞️ I’m looking to collaborate api projects
 - 📫 How to reach me yusufgenius03@gmail.com
 
 <!---
